@@ -36,7 +36,7 @@ Stone-Paper-Scissors/
 ├── rock.png        # Image for Stone
 ├── paper.png       # Image for Paper
 └── scissors.png    # Image for Scissors
-
+```
 ## 🎯 How to Play
 
 1. Open the **index.html** file in your browser.  
